@@ -1,5 +1,5 @@
 {
-  "name": "weakrefmap",
+  "name": "@jaenster/weakrefmap",
   "version": "0.2.2",
   "description": "WeakRefMap, a weak map with access to the fields, and keys can be primitives",
   "main": "bin/index.js",
@@ -10,7 +10,13 @@
   "files": [
     "/bin"
   ],
-  "keywords": [],
+  "keywords": [
+    "weakref",
+    "map",
+    "weak-ref-map",
+    "weak-ref",
+    "weak-ref-map"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jaenster/weakrefmap.git"
